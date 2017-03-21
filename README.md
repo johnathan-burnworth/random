@@ -1,2 +1,2 @@
-# random
-Random files for various things I work on
+# READ ME
+Branch to store random scripts, files, and other items not related to a specific project
